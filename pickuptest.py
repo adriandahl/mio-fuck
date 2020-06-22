@@ -8,7 +8,7 @@ import random
 pygame.init()
 
 W, H = 1600, 900
-win = pygame.display.set_mode((W,H), pygame.FULLSCREEN)
+win = pygame.display.set_mode((W,H))
 pygame.display.set_caption('MIO FUCK - DAS SPIEL')
 
 bg = pygame.image.load('landscape.jpg').convert()
