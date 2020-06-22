@@ -34,7 +34,7 @@ opendoor = False
 
 startcollision = False
 doorPassed = False
-lifeCount = 1
+lifeCount = 4
 alive = True
 
 doorIsGreen = False
